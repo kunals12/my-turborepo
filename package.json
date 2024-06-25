@@ -19,5 +19,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@types/express": "^4.17.21"
+  }
 }
